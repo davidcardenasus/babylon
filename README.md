@@ -3,7 +3,7 @@
 Unlocking 21 Million ₿ to Secure the Decentralized Economy
 
 [![Website](https://badgen.net/badge/icon/Website?label=)](https://babylonchain.io)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/babylon_chain)
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://x.com/babylonlabs_io)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/babylonglobal)
 [![Medium](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/babylonchain-io)
 
